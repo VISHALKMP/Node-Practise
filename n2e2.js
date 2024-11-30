@@ -13,6 +13,7 @@ module.exports={
 }
 
 // BY Exports you can wrap up everting in one OBJECT by you can make two objects somtimes it will run and otherwise it just show error exicute one nad there no one can predict which one is gonna run
+
 // module.exports = {
 // o:function (){
 //     return 60;
